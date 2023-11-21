@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DKM</string>
+    <string name="close_image">Close Image</string>
+    <string name="zoomable_image">Tap to Zoom</string>
+</resources>
